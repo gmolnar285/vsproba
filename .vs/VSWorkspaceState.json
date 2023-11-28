@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebApplication1",
+    "\\WebApplication1\\Pages"
   ],
-  "SelectedNode": "\\C:\\Users\\gmolnar\\Source\\Repos\\gmolnar285\\vsproba",
+  "SelectedNode": "\\WebApplication1\\Pages\\Index.cshtml.cs",
   "PreviewInSolutionExplorer": false
 }
